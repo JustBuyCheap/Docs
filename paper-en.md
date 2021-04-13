@@ -25,7 +25,7 @@ JustBuyCheap is a zone for free trading for all world. We create BUY token for o
 ##  List on decentralized exchange
 
 ##  Roadmap after the project boot success
-1. new store, pay with usdt/busd/husd and other stable coins with low transaction fee.
+1. new store, checkout with usdt/busd/husd and other stable coins with low transaction fee.
 
 2. New membership system：Can effectively manage our members and support members on different chains to authenticate, polkadot, bsc, heco.
 
